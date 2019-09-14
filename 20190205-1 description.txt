@@ -1,0 +1,26 @@
+Genotype by well column (same for each DFM)
+1: poxnM22/poxn70; UAS-kir2.1/+
+2: poxnM22, Ir25a-GAL4/poxn70; UAS-kir2.1/UAS-kir2.1
+3: poxnM22, Ir25a-GAL4/poxn70, LexAop-GAL80; UAS-kir2.1/Gr43a-LexA
+4: poxnM22, Ir25a-GAL4/poxn70, LexAop-GAL80; UAS-kir2.1/Ir67c-LexA
+5: poxnM22, Ir25a-GAL4/poxn70, LexAop-GAL80; UAS-kir2.1/Ir60b-LexA
+6: poxnM22, Ir25a-GAL4/poxn70, LexAop-GAL80; UAS-kir2.1/ppk28-LexA
+
+solution: 
+DFM1
+A: autoclaved H2O
+B: 100mM sucrose
+
+DFM2
+A: 200mM L-glucose
+B: 3AA mixture (25mM)
+
+DFM3
+A: 200mM D-glucose
+B: autoclaved H2O
+  
+Starvation: 24 hr
+assay time: 1 hr
+
+Notes:
+DFM3-B2 is empty
